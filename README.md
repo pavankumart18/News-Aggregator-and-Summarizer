@@ -13,8 +13,8 @@ By combining the capabilities of the ChatGPT API with the MERN stack, the News A
 ## Installation
 
 ```bash
-git clone https://github.com/yourusername/yourproject.git
-cd yourproject
+git clone https://github.com/pavankumart18/News-Aggregator-and-Summariser.git
+cd News-Aggregator-and-Summariser
 ##Terminal code
 
 To Run Frontend:
