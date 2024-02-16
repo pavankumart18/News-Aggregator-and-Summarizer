@@ -1,4 +1,4 @@
-# NEWS AGGREGATOR AND Summariser
+# NEWS AGGREGATOR AND SUMMARIZER
 
 The AI News Aggregator and Summarizer, powered by the MERN stack and integrated with the ChatGPT API, represents a cutting-edge solution to the modern challenge of accessing relevant and trustworthy news amidst the vast array of online sources. Leveraging the power of artificial intelligence through the ChatGPT API, this platform redefines how individuals consume news by collecting articles from diverse sources and providing concise and informative summaries.
 
