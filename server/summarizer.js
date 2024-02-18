@@ -1,7 +1,7 @@
 const axios = require('axios');
 const { OpenAI } = require('openai');
 
-const apiKey = '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';
+const apiKey = 'your open ai api key';
 const apiUrl = 'https://api.openai.com/v1/engines/davinci/completions';
 
 const openai = new OpenAI(apiKey);

@@ -16,7 +16,7 @@ app.use(express.json());
 
 const secretKey = 'b^sT8u9A$zYw2qR1pL*7o&5xH3iKcVgXf@';
 // Connect to MongoDB
-mongoose.connect('mongodb+srv://pavankumart:<password>@cluster0.b6dce5l.mongodb.net/NewsDB', { useNewUrlParser: true, useUnifiedTopology: true });
+mongoose.connect('yourdb-url', { useNewUrlParser: true, useUnifiedTopology: true });
 const db = mongoose.connection;
 db.on('error', console.error.bind(console, 'MongoDB connection error:'));
 
@@ -121,7 +121,7 @@ app.post('/login', async (req, res) => {
 // API endpoint to fetch news based on the country (India)
 app.get('/api/news', async (req, res) => {
   try {
-    const apiKey = '75bb66e0a8e64e98a4a5c1bdfdad2325';
+    const apiKey = 'your news api key';
     const categories = ['business', 'entertainment', 'general', 'health', 'science', 'sports', 'technology'];
     
     // Use the provided timestamp or current timestamp
