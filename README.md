@@ -6,6 +6,7 @@ Here's how the integration with the ChatGPT API enhances the functionality of th
 
 Summarization: The ChatGPT API is utilized to generate concise summaries of news articles. By analyzing the content of articles and extracting key information, ChatGPT produces accurate and coherent summaries that capture the essence of the original text.
 
+Upgraded to Gemini API As Open Ai API was not free
 
 Personalization: Through continuous learning and adaptation, the platform tailors news summaries to individual user preferences. By analyzing user interactions and feedback, ChatGPT helps personalize the news consumption experience, ensuring that users receive summaries relevant to their interests.
 
