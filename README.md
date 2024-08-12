@@ -18,6 +18,24 @@ Automation: The integration with the ChatGPT API automates the summarization pro
 
 By combining the capabilities of the ChatGPT API with the MERN stack, the News Aggregator and Summarizer offers an advanced and user-friendly platform for accessing personalized and informative news summaries. This integration represents a transformative approach to news consumption, providing users with a convenient and efficient way to stay informed in today's fast-paced digital landscape.
 
+## ScreenShots
+
+As I am using NEWS API it is for only limited free requests so i am showing you the ScreenShots and one more happend was previously newsApi was providing many urltoimages but now it reduced so i used a dummy image to show the news article 
+
+![Home Page](./home.png)
+
+Home Page 
+
+![Summarizer](./summarizer.png)
+
+Summarizer
+
+![News Atricle By Category](./newsarticlewithdummyimage.png)
+
+![Personlizatin](./personalized%20feild.png)
+
+![Summary of an article using url](./summarized%20text%20from%20link.png)
+
 ## Installation
 
 ```bash
