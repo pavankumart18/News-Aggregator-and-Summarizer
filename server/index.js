@@ -21,7 +21,7 @@ const secretKey = 'b^sT8u9A$zYw2qR1pL*7o&5xH3iKcVgXf@'; // Secret key for JWT
 const apiKey = 'Your News API Key'; // API key for NewsAPI
 
 // Connect to MongoDB
-mongoose.connect('mongodb+srv://pavankumart:13a14as1@cluster0.b6dce5l.mongodb.net/NewsDB', { useNewUrlParser: true, useUnifiedTopology: true });
+mongoose.connect('Your Mongodb url', { useNewUrlParser: true, useUnifiedTopology: true });
 const db = mongoose.connection;
 db.on('error', console.error.bind(console, 'MongoDB connection error:'));
 
